@@ -42,6 +42,14 @@ Conversational guidance for building software with AI agents, covering workflows
 skillman add dep0we/my-claude-skills/agentic-development --scope user --dangerously-skip-permissions
 ```
 
+### ai-vendor-evaluation
+Comprehensive framework for evaluating AI vendors and solutions to avoid costly mistakes. Includes evaluation criteria, red flags, pricing models, contract checklists, technical assessment, build-vs-buy analysis, and a scorecard template.
+
+**Installation:**
+```bash
+skillman add dep0we/my-claude-skills/ai-vendor-evaluation --scope user --dangerously-skip-permissions
+```
+
 ### notion-bookmark
 Helper skill for creating bookmarks in Notion databases with proper schema validation and metadata extraction.
 
