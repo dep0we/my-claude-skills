@@ -34,4 +34,18 @@ To use these skills on another machine:
 
 ## Skills
 
-Skills will be listed here as they are added.
+### agentic-development
+Conversational guidance for building software with AI agents, covering workflows, tool selection, prompt strategies, parallel agent management, and best practices based on real-world high-volume agentic development experience.
+
+**Installation:**
+```bash
+skillman add dep0we/my-claude-skills/agentic-development --scope user --dangerously-skip-permissions
+```
+
+### notion-bookmark
+Helper skill for creating bookmarks in Notion databases with proper schema validation and metadata extraction.
+
+**Installation:**
+```bash
+skillman add dep0we/my-claude-skills/notion-bookmark --scope user --dangerously-skip-permissions
+```
